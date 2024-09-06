@@ -22,6 +22,10 @@ footer {
   color: midnightblue;
 }
 
+.logo {
+  height: 50px;
+  
+}
 .tile-image {
   height: 200px;
   float: left;
@@ -42,7 +46,8 @@ footer {
 
 @media (max-width: 680px) {
   .logo {
-    width: 100px;  
+    width: 100px;
+    height: 25px;  
   }
   h1 {
     font-size: 3.5rem;
